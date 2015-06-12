@@ -1,1 +1,12 @@
+
+# Development environment variables
+.env
+
+# NPM packages
 node_modules
+
+# Built files
+built
+
+# MongoDB
+data
