@@ -13,7 +13,7 @@
         "status": 400,
         "code": 2001
     },
-    "Could not find any user with the username, email and password combination": {
+    "Could not find any user with the username, email and password combination.": {
         "status": 400,
         "code": 2002
     },
